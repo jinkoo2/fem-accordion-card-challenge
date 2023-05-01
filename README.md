@@ -9,5 +9,5 @@ Desktop
 ![](./screenshot.png)
 
 Mobile
-![](./screenshot.png)
+![](./screenshot2.png)
 
